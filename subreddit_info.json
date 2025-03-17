@@ -1,0 +1,2420 @@
+{
+    "AI_Agents": {
+        "description": "A place for discussion around the use of AI Agents and related tools. AI Agents are LLMs that have the ability to \"use tools\" or \"execute functions\" in an autonomous or semi-autonomous (also known as human-in-the-loop) fashion.\n\nFollow our event calendar: https://lu.ma/oss4ai\n\nJoin us on Discord! https://discord.gg/6tGkQcFjBY",
+        "flairs": [
+            {
+                "id": "86f9ca02-948c-11ef-8f19-529ae4d5b59a",
+                "text": "Tutorial"
+            },
+            {
+                "id": "926404de-948c-11ef-9a45-6a0eed62b8a6",
+                "text": "Resource Request"
+            },
+            {
+                "id": "c0fb994c-948c-11ef-838b-96bd8d9b4e91",
+                "text": "Discussion"
+            }
+        ]
+    },
+    "aiArt": {
+        "description": "Welcome to r/aiArt! A community dedicated to the creation and exploration of AI-generated art, including images, videos, music, and written works. Whether you're experimenting with AI tools or showcasing your latest creations, this is the place to share, discuss, and inspire!",
+        "flairs": [
+            {
+                "id": "0f8290d0-ef34-11ec-96e1-3a53b8801069",
+                "text": "Image - Other: Please edit, or your post may be deleted "
+            },
+            {
+                "id": "ad211e5a-0f0a-11ee-8f45-260b877a0aa6",
+                "text": "Image - Adobe Firefly :a2:"
+            },
+            {
+                "id": "a70f3df4-3001-11ee-8296-8adcf0c4f9b1",
+                "text": "Image - Bing Image Creator :a2:"
+            },
+            {
+                "id": "0a68f3b2-70f9-11ee-bf1c-96ead18085b0",
+                "text": "Image - ChatGPT :a2:"
+            },
+            {
+                "id": "86fd72ca-2881-11ed-a9da-facfe87b9224",
+                "text": "Image - DALL E 3 :a2:"
+            },
+            {
+                "id": "b2789558-7846-11ef-89a4-e220e36f72d5",
+                "text": "Image - FLUX :a2:"
+            },
+            {
+                "id": "3ce35736-a502-11ef-bc13-0e84e49859d1",
+                "text": "Image - Google Gemini :a2:"
+            },
+            {
+                "id": "2752bf08-70f9-11ee-a4bf-dea624605b73",
+                "text": "Image - Leonardo.ai :a2:"
+            },
+            {
+                "id": "92cb710a-a9b8-11ef-93ab-b6b72eac2a31",
+                "text": "Image - Meta AI  :a2:"
+            },
+            {
+                "id": "e95543a8-ef33-11ec-adff-8ae0d6845676",
+                "text": "Image - Midjourney :a2:"
+            },
+            {
+                "id": "f04be6e4-ef33-11ec-bfd8-b6310d0afd94",
+                "text": "Image - Nightcafe :a2:"
+            },
+            {
+                "id": "f0499fea-0f0a-11ee-8493-de10636b224a",
+                "text": "Image - NOWai :a2:"
+            },
+            {
+                "id": "56a18332-2881-11ed-a2f0-6294fb3a128d",
+                "text": "Image - Stable Diffusion :a2:"
+            },
+            {
+                "id": "3ee3d098-f027-11ec-a2ee-82046212302d",
+                "text": "Image - Starryai :a2:"
+            },
+            {
+                "id": "8b793976-30ae-11ed-84bd-d6a6eab7be29",
+                "text": "Image - VQGAN+CLIP :a2:"
+            },
+            {
+                "id": "944c78e2-fbd1-11ef-8d91-a2352dc4938d",
+                "text": "Video - ChatGPT\u2800:film:"
+            },
+            {
+                "id": "5c910738-faf0-11ef-aa96-1670b1bf80ae",
+                "text": "Video - Fliki\u2800:film:"
+            },
+            {
+                "id": "8e520452-faf0-11ef-a2dd-8e367e5341ad",
+                "text": "Video - Hailuo AI\u2800:film:"
+            },
+            {
+                "id": "a1a65eb8-faf0-11ef-b6e6-ce405ca11bfd",
+                "text": "Video - Kling AI\u2800:film:"
+            },
+            {
+                "id": "65e7953c-fc48-11ef-a07e-0673def00a82",
+                "text": "Video - Midjourney\u200e \u200e :film:"
+            },
+            {
+                "id": "eec886b4-fa44-11ef-a639-eac6d0403a84",
+                "text": "Video  - Runway ML\u2800:film:"
+            },
+            {
+                "id": "7d3f0296-faf0-11ef-beea-4a513be1f543",
+                "text": "Video - Synthesia\u2800:film:"
+            },
+            {
+                "id": "cd91e040-faf2-11ef-9426-8e087a1e4f81",
+                "text": "Video - Other\u2800:film:"
+            },
+            {
+                "id": "781f1890-faf1-11ef-b166-524e62479509",
+                "text": "Music\u2800:music:"
+            },
+            {
+                "id": "49616858-fab7-11ef-bd6b-0a84ddb8ff61",
+                "text": "Text\u2800:article:"
+            }
+        ]
+    },
+    "aivideo": {
+        "description": "Welcome to r/aivideo! \ud83c\udf7f\ud83e\udd64\ud83e\udd2f A community focused on FULL MOTION VIDEO GENERATIVE A.I. ASSISTANTS such as SORA, HAILUO, KLING and other similar AI VIDEO tools capable of generating TEXT TO VIDEO,IMAGE TO VIDEO,VIDEO TO VIDEO, AI VFX,AI SFX,AI MUSIC,AI SPEECH SYNTHESIS\n\nWELCOME TO THE FUTURE!\n\n\u26a0\ufe0f DISCLAIMER: videos are NOT REAL! they are COMPUTER GENERATED for amusement, fan fiction or parody, send [MODMAIL](https://www.reddit.com/message/compose?to=/r/aivideo) to force remove videos.",
+        "flairs": [
+            {
+                "id": "58acfe7e-0e48-11ee-93d0-ea8f4b56e856",
+                "text": "QUESTION"
+            },
+            {
+                "id": "fd8a4e18-a977-11ee-80a7-be7ddeb0f064",
+                "text": "NEW TOOL"
+            },
+            {
+                "id": "e31af836-1460-11ee-89ac-32621653f6b9",
+                "text": "TUTORIAL"
+            },
+            {
+                "id": "1b4d098a-b6d4-11ef-9933-7abaca3aae5f",
+                "text": "OPEN AI SORA \ud83d\ude31 CRAZY, UNCANNY, LIMINAL"
+            },
+            {
+                "id": "3d43ded8-b6d4-11ef-b490-0e2f6026ed5f",
+                "text": "OPEN AI SORA \ud83e\udd2f MEME AI VIDEO RENDITION"
+            },
+            {
+                "id": "4f50e10c-b6d4-11ef-aff4-bada542532de",
+                "text": "OPEN AI SORA \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "5afbe312-b6d4-11ef-bcd8-2af1595883fb",
+                "text": "OPEN AI SORA + SUNO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "93920328-b6d4-11ef-9a2b-4a78c701d4b1",
+                "text": "OPEN AI SORA + UDIO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "9fb84982-b6d4-11ef-aa3e-d696c4f88a7a",
+                "text": "OPEN AI SORA \ud83c\udf7f MOVIE TRAILER"
+            },
+            {
+                "id": "ac30eb7e-b6d4-11ef-aa35-7a323eec7dee",
+                "text": "OPEN AI SORA  \ud83c\udfac  SHORT FILM"
+            },
+            {
+                "id": "bb135a50-b6d4-11ef-b651-d292cd03fc9c",
+                "text": "OPEN AI SORA \ud83d\ude35 ANIME"
+            },
+            {
+                "id": "c9dfe832-b6d4-11ef-80bb-7abaca3aae5f",
+                "text": "OPEN AI SORA \ud83c\udf5f TV SHOW"
+            },
+            {
+                "id": "dd016580-b6d4-11ef-b814-8ecc7d9a700e",
+                "text": "OPEN AI SORA \ud83c\udf54 TV COMMERCIAL"
+            },
+            {
+                "id": "ecac2bb4-b6d4-11ef-b3bb-6a6883e18ad5",
+                "text": "OPEN AI SORA \ud83d\udc7b HORROR \ud83d\udeab NSFW"
+            },
+            {
+                "id": "fbff4ea2-b6d4-11ef-837e-029cd82fb629",
+                "text": "OPEN AI SORA \ud83c\udfa5 DOCUMENTARY"
+            },
+            {
+                "id": "0d7f9d4e-b6d5-11ef-b7c9-426329e9f0a3",
+                "text": "OPEN AI SORA \ud83c\udf7a  COMEDY SKETCH"
+            },
+            {
+                "id": "20e84552-b6d5-11ef-96d0-0e8df199e12e",
+                "text": "OPEN AI SORA \ud83c\udfa4 COMEDY STAND UP"
+            },
+            {
+                "id": "46120048-6964-11ef-b95e-c2bb553072fd",
+                "text": "HAILUO MINIMAX \ud83d\ude31 CRAZY, UNCANNY, LIMINAL"
+            },
+            {
+                "id": "4e9e78f4-6964-11ef-81f3-ee9ddd256571",
+                "text": "HAILUO MINIMAX \ud83e\udd2f MEME AI VIDEO RENDITION"
+            },
+            {
+                "id": "cf21f502-6976-11ef-82ff-9ef224362751",
+                "text": "HAILUO MINIMAX \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "d4bb612e-6976-11ef-90c7-2a10c1416d64",
+                "text": "HAILUO MINIMAX + UDIO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "e5616eba-6976-11ef-ae92-0ad8cf12b3f2",
+                "text": "HAILUO MINIMAX + SUNO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "c60e023a-6976-11ef-ad58-de9ea6fb6e6f",
+                "text": "HAILUO MINIMAX \ud83c\udf7f MOVIE TRAILER"
+            },
+            {
+                "id": "bc2f9f12-6976-11ef-880f-3ee96943478e",
+                "text": "HAILUO MINIMAX  \ud83c\udfac  SHORT FILM"
+            },
+            {
+                "id": "1ddbf3e6-8eac-11ef-96fa-0e74b222744d",
+                "text": "HAILUO MINIMAX  \ud83d\ude35  ANIME"
+            },
+            {
+                "id": "54546358-6964-11ef-9d84-369621ebeac1",
+                "text": "HAILUO MINIMAX \ud83c\udf5f TV SHOW"
+            },
+            {
+                "id": "fd672800-6972-11ef-9887-ca9d64137323",
+                "text": "HAILUO MINIMAX \ud83c\udf54 TV COMMERCIAL"
+            },
+            {
+                "id": "e581d6ca-89db-11ef-ae30-ce05fd09b1f9",
+                "text": "HAILUO MINIMAX \ud83d\udc7b HORROR \ud83d\udeab NSFW"
+            },
+            {
+                "id": "017e36f4-6973-11ef-914e-3e27a5b19d69",
+                "text": "HAILUO MINIMAX \ud83c\udfa5 DOCUMENTARY"
+            },
+            {
+                "id": "918e0202-6972-11ef-a998-2a10c1416d64",
+                "text": "HAILUO MINIMAX \ud83c\udf7a COMEDY SKETCH"
+            },
+            {
+                "id": "cc585392-6972-11ef-9707-0eaaaa5f4392",
+                "text": "HAILUO MINIMAX \ud83c\udfa4 COMEDY STAND UP"
+            },
+            {
+                "id": "dfe30620-2730-11ef-85f9-960e8fe0e097",
+                "text": "KLING \ud83d\ude31 CRAZY, UNCANNY, LIMINAL"
+            },
+            {
+                "id": "44a79f88-4344-11ef-8263-e23f721c723c",
+                "text": "KLING \ud83e\udd2f MEME AI VIDEO RENDITION"
+            },
+            {
+                "id": "6d9d4e40-273a-11ef-be84-a698921115f6",
+                "text": "KLING \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "7d088192-273a-11ef-8a7d-d6e6b57f1d2b",
+                "text": "KLING  + SUNO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "873f9fa6-273a-11ef-9d2d-960e8fe0e097",
+                "text": "KLING + UDIO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "e19240da-273a-11ef-b4ca-3ab8398c9e1b",
+                "text": "KLING \ud83c\udf7f MOVIE TRAILER"
+            },
+            {
+                "id": "e8267b6e-273a-11ef-9781-b22c002b7f12",
+                "text": "KLING  \ud83c\udfac  SHORT FILM"
+            },
+            {
+                "id": "33030232-8eac-11ef-8238-fed55ccd5f60",
+                "text": "KLING \ud83d\ude35 ANIME"
+            },
+            {
+                "id": "055152c2-273b-11ef-9a6a-020fe6836b52",
+                "text": "KLING \ud83c\udf5f TV SHOW"
+            },
+            {
+                "id": "f6096ae8-273a-11ef-93dd-228fb7a647e7",
+                "text": "KLING \ud83c\udf54 TV COMMERCIAL"
+            },
+            {
+                "id": "ec79cf8c-89db-11ef-838a-2a1ad4560acc",
+                "text": "KLING \ud83d\udc7b HORROR \ud83d\udeab NSFW"
+            },
+            {
+                "id": "6a0aa1c6-4344-11ef-be05-fe5db90258e3",
+                "text": "KLING \ud83c\udfa5 DOCUMENTARY"
+            },
+            {
+                "id": "1bdfd5a4-273b-11ef-8ec6-b220896b10d1",
+                "text": "KLING \ud83c\udf7a COMEDY SKETCH"
+            },
+            {
+                "id": "2200b930-273b-11ef-bef2-d6e6b57f1d2b",
+                "text": "KLING \ud83c\udfa4 COMEDY STAND UP"
+            },
+            {
+                "id": "0ffd23b6-f9a1-11ef-98aa-02be912e1cc3",
+                "text": "GOOGLE VEO2 \ud83d\ude31 CRAZY, UNCANNY, LIMINAL"
+            },
+            {
+                "id": "5dc7ae0e-f9a1-11ef-bfd2-2eb8fd910e6e",
+                "text": "GOOGLE VEO2 \ud83e\udd2f MEME AI VIDEO RENDITION"
+            },
+            {
+                "id": "6fc1efa2-f9a1-11ef-a583-3e65422f5f61",
+                "text": "GOOGLE VEO2 \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "8f74c6c6-f9a1-11ef-ac61-ee09abc95799",
+                "text": "GOOGLE VEO2 + SUNO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "fdd92652-f9a1-11ef-82d2-02be912e1cc3",
+                "text": "GOOGLE VEO2 + UDIO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "e6953bf2-f9a1-11ef-a367-3edc933e77f7",
+                "text": "GOOGLE VEO2 \ud83c\udf7f MOVIE TRAILER"
+            },
+            {
+                "id": "1ee85ade-f9a2-11ef-97ca-cad7cc319828",
+                "text": "GOOGLE VEO2 \ud83c\udfac SHORT FILM"
+            },
+            {
+                "id": "327e9914-f9a2-11ef-8cee-76c3c9dbb329",
+                "text": "GOOGLE VEO2 \ud83d\ude35 ANIME"
+            },
+            {
+                "id": "66d633e8-f9a2-11ef-a9c7-3edc933e77f7",
+                "text": "GOOGLE VEO2 \ud83c\udf5f TV SHOW"
+            },
+            {
+                "id": "7b1d445e-f9a2-11ef-a08b-eae1c927516d",
+                "text": "GOOGLE VEO2 \ud83c\udf54 TV COMMERCIAL"
+            },
+            {
+                "id": "952dc42c-f9a2-11ef-bda1-eae1c927516d",
+                "text": "GOOGLE VEO2 \ud83d\udc7b HORROR \ud83d\udeab NSFW"
+            },
+            {
+                "id": "b92287b4-f9a2-11ef-be64-9e36deca9b03",
+                "text": "GOOGLE VEO2 \ud83c\udf7a COMEDY SKETCH"
+            },
+            {
+                "id": "ca272c04-f9a2-11ef-9481-fa1f9c71cb49",
+                "text": "GOOGLE VEO2 \ud83c\udfa4 COMEDY STAND UP"
+            },
+            {
+                "id": "a2f02118-f9a2-11ef-9a35-4ae3cd565b8e",
+                "text": "GOOGLE VEO2 \ud83c\udfa5 DOCUMENTARY"
+            },
+            {
+                "id": "369ea93c-1fc6-11ef-800d-5a17b9b41a65",
+                "text": "RUNWAY \ud83d\ude31 CRAZY, UNCANNY, LIMINAL"
+            },
+            {
+                "id": "82a37b7c-83ae-11ef-a550-3292f3502e6a",
+                "text": "RUNWAY \ud83d\ude33 VIDEOGAME AI VIDEO REMAKE"
+            },
+            {
+                "id": "97d6b96a-4343-11ef-86b7-ea693d121c89",
+                "text": "RUNWAY \ud83e\udd2f MEME AI VIDEO RENDITION"
+            },
+            {
+                "id": "ee7bc95a-0e6d-11ef-ba83-eeb4c4159c45",
+                "text": "RUNWAY \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "afd2b16e-1fc0-11ef-9e0e-5af617ff18b0",
+                "text": "RUNWAY + SUNO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "b5d5bee4-1fc0-11ef-8425-aa8d09aceaac",
+                "text": "RUNWAY + UDIO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "35738cb6-1662-11ef-815a-1a56d214f182",
+                "text": "RUNWAY \ud83c\udf7f MOVIE TRAILER"
+            },
+            {
+                "id": "22096fc8-16e0-11ef-830c-e620eb170a9e",
+                "text": "RUNWAY  \ud83c\udfac  SHORT FILM"
+            },
+            {
+                "id": "2c13f83c-8eac-11ef-91e8-7e8a8394f7c9",
+                "text": "RUNWAY \ud83d\ude35 ANIME"
+            },
+            {
+                "id": "c351d904-171e-11ef-b1fd-468989e8ec92",
+                "text": "RUNWAY \ud83c\udf5f TV SHOW"
+            },
+            {
+                "id": "8c2ebef0-16e3-11ef-852a-9e3131530a03",
+                "text": "RUNWAY \ud83c\udf54 TV COMMERCIAL"
+            },
+            {
+                "id": "dff2fb76-89db-11ef-bf98-9637335b5bb5",
+                "text": "RUNWAY \ud83d\udc7b HORROR \ud83d\udeab NSFW"
+            },
+            {
+                "id": "d51c51f4-4343-11ef-99e4-42ba7e038c4b",
+                "text": "RUNWAY \ud83c\udfa5 DOCUMENTARY"
+            },
+            {
+                "id": "b6ac9814-1fc6-11ef-b850-f67c40dba341",
+                "text": "RUNWAY \ud83c\udf7a COMEDY SKETCH"
+            },
+            {
+                "id": "e457565a-1fc6-11ef-a44e-d275941d1e78",
+                "text": "RUNWAY \ud83c\udfa4 COMEDY STAND UP"
+            },
+            {
+                "id": "4f2a8cb4-295d-11ef-b735-6a388709f9a9",
+                "text": "LUMA \ud83d\ude31 CRAZY, UNCANNY, LIMINAL"
+            },
+            {
+                "id": "ae121504-4342-11ef-8c22-0aba46a309ae",
+                "text": "LUMA \ud83e\udd2f MEME AI VIDEO RENDITION"
+            },
+            {
+                "id": "d401a756-295d-11ef-8f20-da5b4adb8c84",
+                "text": "LUMA \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "bab0770a-295d-11ef-a31f-9e913dad925f",
+                "text": "LUMA + SUNO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "c8d01cbe-295d-11ef-8bff-6a388709f9a9",
+                "text": "LUMA + UDIO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "809ac3e0-295d-11ef-b795-827445ff4007",
+                "text": "LUMA \ud83c\udf7f MOVIE TRAILER"
+            },
+            {
+                "id": "8a390c68-295d-11ef-a7a2-e2f1f941fa7a",
+                "text": "LUMA \ud83c\udfac SHORT FILM"
+            },
+            {
+                "id": "8bbd088e-8eaf-11ef-ad67-46d08a2b9c79",
+                "text": "LUMA \ud83d\ude35 ANIME"
+            },
+            {
+                "id": "aa466ac8-295d-11ef-993d-6a388709f9a9",
+                "text": "LUMA \ud83c\udf5f TV SHOW"
+            },
+            {
+                "id": "91da29d4-295d-11ef-b7fd-e2f1f941fa7a",
+                "text": "LUMA \ud83c\udf54 TV COMMERCIAL"
+            },
+            {
+                "id": "5a3dd658-89e1-11ef-904f-9a836e1fe80e",
+                "text": "LUMA \ud83d\udc7b HORROR \ud83d\udeab NSFW"
+            },
+            {
+                "id": "e565000c-4342-11ef-af1c-62021daa080b",
+                "text": "LUMA \ud83c\udfa5 DOCUMENTARY"
+            },
+            {
+                "id": "9e336a1a-295d-11ef-bcc2-9ed01f311961",
+                "text": "LUMA \ud83c\udf7a COMEDY SKETCH"
+            },
+            {
+                "id": "79ab3a3a-2960-11ef-9bbf-c2749d00acec",
+                "text": "LUMA \ud83c\udfa4 COMEDY STAND UP"
+            },
+            {
+                "id": "6c80d65a-ac2b-11ef-ae75-ea96c9bcbf00",
+                "text": "DOMO AI \ud83d\ude31 CRAZY, UNCANNY, LIMINAL"
+            },
+            {
+                "id": "70dbd358-fa78-11ef-9243-cee6c6969349",
+                "text": "DOMO AI \ud83e\udd2f MEME AI VIDEO RENDITION"
+            },
+            {
+                "id": "79bf7272-fa78-11ef-aa4c-9ad018b7db82",
+                "text": "DOMO AI \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "87c16b8c-fa78-11ef-ad55-96592fa43626",
+                "text": "DOMO AI + SUNO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "930e3ff6-fa78-11ef-a1fd-0e9240a56024",
+                "text": "DOMO AI + UDIO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "9f4fac5a-fa78-11ef-bb1b-9ecc9da16519",
+                "text": "DOMO AI \ud83c\udf7f MOVIE TRAILER"
+            },
+            {
+                "id": "b4b273e8-fa78-11ef-b079-aadce4096f62",
+                "text": "DOMO AI \ud83d\ude35 ANIME"
+            },
+            {
+                "id": "abbd6efa-fa78-11ef-9e0c-0e7b85c4252b",
+                "text": "DOMO AI \ud83c\udfac SHORT FILM"
+            },
+            {
+                "id": "c0bbb8fc-fa78-11ef-a671-b6c5d6b6b3d1",
+                "text": "DOMO AI \ud83c\udf5f TV SHOW"
+            },
+            {
+                "id": "dd957bde-fa78-11ef-bd3b-b6a5d1e63685",
+                "text": "DOMO AI \ud83c\udf54 TV COMMERCIAL"
+            },
+            {
+                "id": "e9bdc664-fa78-11ef-938f-7abf861b62d8",
+                "text": "DOMO AI \ud83d\udc7b HORROR \ud83d\udeab NSFW"
+            },
+            {
+                "id": "f68b3ba6-fa78-11ef-befc-6212e54f6a8b",
+                "text": "DOMO AI \ud83c\udfa5 DOCUMENTARY"
+            },
+            {
+                "id": "040a36ec-fa79-11ef-a5e1-9659f2139c14",
+                "text": "DOMO AI \ud83c\udf7a COMEDY SKETCH"
+            },
+            {
+                "id": "117f59ec-fa79-11ef-995b-ce1c7a1ac6d7",
+                "text": "DOMO AI \ud83c\udfa4 COMEDY STAND UP"
+            },
+            {
+                "id": "cace33f4-806d-11ef-843b-6ee79f974684",
+                "text": "PIKA \ud83d\ude31 CRAZY, UNCANNY, LIMINAL"
+            },
+            {
+                "id": "1bbcf4f8-806e-11ef-9a64-3223e9b942f0",
+                "text": "PIKA \ud83e\udd2f MEME AI VIDEO RENDITION"
+            },
+            {
+                "id": "4025e016-806e-11ef-9d21-8e4985f08fc1",
+                "text": "PIKA \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "4932ffb8-806e-11ef-89c1-0eb88be75204",
+                "text": "PIKA + SUNO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "511ab7fc-806e-11ef-bc1a-b2c07f956bc1",
+                "text": "PIKA + UDIO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "74e2a938-806e-11ef-be30-769b695a8565",
+                "text": "PIKA \ud83c\udf7f MOVIE TRAILER"
+            },
+            {
+                "id": "89dbce5a-806e-11ef-a60c-16b233a6745d",
+                "text": "PIKA \ud83c\udfac SHORT FILM"
+            },
+            {
+                "id": "21ed0f4a-8eae-11ef-b02b-369b8dc03376",
+                "text": "PIKA \ud83d\ude35 ANIME"
+            },
+            {
+                "id": "ac94c8f2-806e-11ef-83d1-3e5b09598725",
+                "text": "PIKA \ud83c\udf5f TV SHOW"
+            },
+            {
+                "id": "9e4d3bee-806e-11ef-96c6-ca3542a61846",
+                "text": "PIKA \ud83c\udf54 TV COMMERCIAL"
+            },
+            {
+                "id": "fe08b344-89db-11ef-9826-42cbe53ad83a",
+                "text": "PIKA \ud83d\udc7b HORROR \ud83d\udeab NSFW"
+            },
+            {
+                "id": "be5d7192-806e-11ef-8f0f-7ec65ea3dca5",
+                "text": "PIKA \ud83c\udfa5 DOCUMENTARY"
+            },
+            {
+                "id": "da00636e-806e-11ef-b06e-86ccc1f858c6",
+                "text": "PIKA \ud83c\udf7a COMEDY SKETCH"
+            },
+            {
+                "id": "e4be15a8-806e-11ef-9728-7e024136b3ec",
+                "text": "PIKA \ud83c\udfa4 COMEDY STAND UP"
+            },
+            {
+                "id": "3ef81680-f9a6-11ef-9d0b-5e6da02c3eec",
+                "text": "ALIBABA WAN \ud83d\ude31 CRAZY, UNCANNY, LIMINAL"
+            },
+            {
+                "id": "76722268-f9a6-11ef-a231-ce1c7a1ac6d7",
+                "text": "ALIBABA WAN \ud83e\udd2f MEME AI VIDEO RENDITION"
+            },
+            {
+                "id": "84020c5e-f9a6-11ef-9406-1a11df3cec4a",
+                "text": "ALIBABA WAN \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "f206749c-f9a6-11ef-a1f5-5673dc58322c",
+                "text": "ALIBABA WAN + SUNO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "0732d7ac-f9a7-11ef-86dd-82eb32dca0b7",
+                "text": "ALIBABA WAN + UDIO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "2cdc5c3a-f9a7-11ef-91fc-3e846db58b30",
+                "text": "ALIBABA WAN \ud83c\udf7f MOVIE TRAILER"
+            },
+            {
+                "id": "3874eaa8-f9a7-11ef-80b7-76c3c9dbb329",
+                "text": "ALIBABA WAN \ud83c\udfac SHORT FILM"
+            },
+            {
+                "id": "5d26b566-f9a7-11ef-913c-5ac99a7c7cd4",
+                "text": "ALIBABA WAN \ud83d\ude35 ANIME"
+            },
+            {
+                "id": "68c4b9d6-f9a7-11ef-977f-46b54938593a",
+                "text": "ALIBABA WAN \ud83c\udf5f TV SHOW"
+            },
+            {
+                "id": "7af418a4-f9a7-11ef-a4cf-5ac99a7c7cd4",
+                "text": "ALIBABA WAN \ud83c\udf54 TV COMMERCIAL"
+            },
+            {
+                "id": "898adf06-f9a7-11ef-8130-2e0c30018348",
+                "text": "ALIBABA WAN \ud83d\udc7b HORROR \ud83d\udeab NSFW"
+            },
+            {
+                "id": "99a2ac98-f9a7-11ef-9bae-82e13411b46f",
+                "text": "ALIBABA WAN \ud83c\udfa5 DOCUMENTARY"
+            },
+            {
+                "id": "a69ad95c-f9a7-11ef-807d-a296cbeeed46",
+                "text": "ALIBABA WAN \ud83c\udf7a COMEDY SKETCH"
+            },
+            {
+                "id": "b1529074-f9a7-11ef-8cc6-82e13411b46f",
+                "text": "ALIBABA WAN \ud83c\udfa4 COMEDY STAND UP"
+            },
+            {
+                "id": "581afc0e-59e2-11ef-b657-3665eff7a87d",
+                "text": "VIDU \ud83d\ude31 CRAZY, UNCANNY, LIMINAL"
+            },
+            {
+                "id": "88f57f70-59e2-11ef-9051-62327271e99e",
+                "text": "VIDU  \ud83e\udd2f MEME AI VIDEO RENDITION"
+            },
+            {
+                "id": "066bb186-59e3-11ef-b503-ee73086f4ba9",
+                "text": "VIDU \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "1459fa14-59e3-11ef-8867-be53318202b5",
+                "text": "VIDU + SUNO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "8b673432-59e3-11ef-ab5d-568b782190cc",
+                "text": "VIDU + UDIO \ud83d\udcc0 MUSIC VIDEO"
+            },
+            {
+                "id": "9c0987d6-59e3-11ef-802d-5687a60f8020",
+                "text": "VIDU \ud83c\udf7f MOVIE TRAILER"
+            },
+            {
+                "id": "a71d75ec-59e3-11ef-87b1-9261280b54ff",
+                "text": "VIDU \ud83c\udfac SHORT FILM"
+            },
+            {
+                "id": "28d2522a-8eae-11ef-bcc6-02ccb7df8f04",
+                "text": "VIDU \ud83d\ude35 ANIME"
+            },
+            {
+                "id": "bbfd861e-59e3-11ef-8dd5-8ef38951072c",
+                "text": "VIDU \ud83c\udf5f TV SHOW"
+            },
+            {
+                "id": "b1838f9e-59e3-11ef-b751-e2b579c06af2",
+                "text": "VIDU \ud83c\udf54 TV COMMERCIAL"
+            },
+            {
+                "id": "f0cb123a-89db-11ef-a411-da1ca28c78ca",
+                "text": "VIDU \ud83d\udc7b HORROR \ud83d\udeab NSFW"
+            },
+            {
+                "id": "c3e88cc0-59e3-11ef-bc47-4607c6d8c404",
+                "text": "VIDU \ud83c\udfa5 DOCUMENTARY"
+            },
+            {
+                "id": "d5d6106a-59e3-11ef-991b-2aac1045c4bd",
+                "text": "VIDU \ud83c\udf7a  COMEDY SKETCH"
+            },
+            {
+                "id": "e441fe16-59e3-11ef-9a67-e2c0275917b5",
+                "text": "VIDU \ud83c\udfa4 COMEDY STAND UP"
+            },
+            {
+                "id": "0d46285e-c1be-11ef-bd00-3ee4886d93e9",
+                "text": "HUNYUAN"
+            },
+            {
+                "id": "4855984c-ac2b-11ef-a029-1e78bff6ab2e",
+                "text": "RENDERNET"
+            },
+            {
+                "id": "f383d34e-86cb-11ef-87c3-ee2ef6763469",
+                "text": "LTX STUDIO"
+            },
+            {
+                "id": "b30cee90-b853-11ef-82a2-5a146a18b185",
+                "text": "HEDRA"
+            },
+            {
+                "id": "49485e96-e3fb-11ed-8315-7ef958748eb0",
+                "text": "STABLE DIFFUSION"
+            },
+            {
+                "id": "99e10a2a-9863-11ee-bf5f-e6863b6c1284",
+                "text": "HAIPER"
+            },
+            {
+                "id": "5105da94-6d46-11ee-81d0-9616e4a54e16",
+                "text": "GENMO"
+            }
+        ]
+    },
+    "artificial": {
+        "description": "Reddit\u2019s home for Artificial Intelligence (AI)",
+        "flairs": [
+            {
+                "id": "8244fc74-82c9-11e3-9460-12313d224170",
+                "text": "Discussion"
+            },
+            {
+                "id": "1a42810a-667a-11e5-bde4-12292be1b4e9",
+                "text": "Question"
+            },
+            {
+                "id": "da8f11a8-82c9-11e3-8303-12313d01b5d1",
+                "text": "News"
+            },
+            {
+                "id": "f4e8a49a-c99d-11ed-94cc-32cad8f457ba",
+                "text": "Robotics"
+            },
+            {
+                "id": "db2d7464-c9a1-11ed-ae91-1edf6109afe1",
+                "text": "Computing"
+            },
+            {
+                "id": "85ad8f1a-c9a1-11ed-b628-562ee776348e",
+                "text": "Biotech"
+            },
+            {
+                "id": "21a6dd8e-aa1d-11ee-a29f-660c92967219",
+                "text": "Media"
+            },
+            {
+                "id": "864ade06-82c9-11e3-acbd-12313d2c1868",
+                "text": "Tutorial"
+            },
+            {
+                "id": "98a7a21e-9280-11ea-b427-0eca3434291d",
+                "text": "Project"
+            },
+            {
+                "id": "89cbd1d8-c9b0-11ed-ba6a-d25671079660",
+                "text": "Miscellaneous"
+            },
+            {
+                "id": "f0d31b8c-c999-11ed-91e7-2a8914446041",
+                "text": "Funny/Meme"
+            }
+        ]
+    },
+    "ArtificialInteligence": {
+        "description": "The goal of the r/ArtificialIntelligence is to provide a gateway to the many different facets of the Artificial Intelligence community, and to promote discussion relating to the ideas and concepts that we know of as AI. These could include philosophical and social questions, art and design, technical papers, machine learning, how to develop AI/ML projects, AI in business, how AI is affecting our lives, what the future may hold, and many other topics. Welcome.",
+        "flairs": [
+            {
+                "id": "3ceb5d3a-9467-11ed-9f10-7a2930f5aaaa",
+                "text": "News"
+            },
+            {
+                "id": "4835e688-9467-11ed-812a-ea9ffb351e6e",
+                "text": "Technical"
+            },
+            {
+                "id": "57e75850-9467-11ed-ac06-76e0ad5355fd",
+                "text": "Discussion"
+            },
+            {
+                "id": "635b02ea-9467-11ed-8320-42f83ac92372",
+                "text": "Resources"
+            },
+            {
+                "id": "286e2a2e-9c12-11ed-9f20-a2fc2d043f30",
+                "text": "Review"
+            },
+            {
+                "id": "28c52b14-9c15-11ed-a385-7250b7331def",
+                "text": "Audio-Visual Art"
+            }
+        ]
+    },
+    "AutoGenAI": {
+        "description": "AutoGen is a groundbreaking framework for developing LLM applications using multi-agent conversations. Dive into discussions about its capabilities, share your projects, seek advice, and stay updated on the latest advancements. Whether you're a developer, researcher, or AI enthusiast, join us in exploring the future of conversational AI.",
+        "flairs": [
+            {
+                "id": "a1d8ea28-71ca-11ee-8391-06469ab79bce",
+                "text": "Discussion"
+            },
+            {
+                "id": "a9b47bd6-71ca-11ee-875e-e68e711a9473",
+                "text": "Question"
+            },
+            {
+                "id": "b28451d2-71ca-11ee-86d2-ee205ce1acde",
+                "text": "Tutorial"
+            },
+            {
+                "id": "b971f030-71ca-11ee-bcdd-06045d118145",
+                "text": "News"
+            },
+            {
+                "id": "c1ea6602-71ca-11ee-b20a-9af52ea038b1",
+                "text": "Resource"
+            },
+            {
+                "id": "c999f7fa-71ca-11ee-a1a1-6626b50d9c73",
+                "text": "Project Showcase"
+            },
+            {
+                "id": "df08607c-71ca-11ee-ae58-861651173153",
+                "text": "Opinion"
+            },
+            {
+                "id": "e61e8788-71ca-11ee-beb4-e68e711a9473",
+                "text": "Other"
+            }
+        ]
+    },
+    "Bard": {
+        "description": "r/Bard is a subreddit dedicated to discussions about Google's Gemini (Formerly Bard) AI. This subreddit is not affiliated with Google.",
+        "flairs": [
+            {
+                "id": "f2c56460-c83e-11ed-98ec-56fb2f5916ad",
+                "text": "Funny "
+            },
+            {
+                "id": "06cbafe6-c83f-11ed-849c-26cccb7da8d8",
+                "text": "News "
+            },
+            {
+                "id": "161072a2-c83f-11ed-9bc1-82de9881b283",
+                "text": "Discussion "
+            },
+            {
+                "id": "b3f2b722-c8a9-11ed-b566-5ac7d6569c20",
+                "text": "Other"
+            },
+            {
+                "id": "b4dea550-c8b9-11ed-9173-d2c035b7156a",
+                "text": "Promotion"
+            },
+            {
+                "id": "90b481a6-c8bc-11ed-87d8-bebc3b7dddbf",
+                "text": "Interesting"
+            }
+        ]
+    },
+    "ChatGPT": {
+        "description": "Subreddit to discuss ChatGPT and AI. Not affiliated with OpenAI. Thanks, Nat!",
+        "flairs": [
+            {
+                "id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+                "text": "Educational Purpose Only "
+            },
+            {
+                "id": "bd4e6832-7bbc-11ed-97cb-0e48625ac41d",
+                "text": "Gone Wild "
+            },
+            {
+                "id": "935162a0-7be9-11ed-913e-6a257d69e3b3",
+                "text": "Funny "
+            },
+            {
+                "id": "b4536a20-7be9-11ed-9a10-deed22fd00f8",
+                "text": "Other "
+            },
+            {
+                "id": "c660b6fa-7be9-11ed-974b-1eca573371bf",
+                "text": "Serious replies only :closed-ai:"
+            },
+            {
+                "id": "b5394392-9962-11ed-af6a-768e8d834d7a",
+                "text": "Prompt engineering "
+            },
+            {
+                "id": "c8a7075c-9962-11ed-86d0-b2c48b46bf22",
+                "text": "Resources "
+            },
+            {
+                "id": "c7f8664e-a78a-11ed-8a94-3ee67440be27",
+                "text": "Jailbreak"
+            },
+            {
+                "id": "c9233c3a-b336-11ed-b456-fab66c9d9d9e",
+                "text": "Use cases "
+            },
+            {
+                "id": "1c39d510-f1ac-11ed-8167-5e7479c0f87c",
+                "text": "News \ud83d\udcf0"
+            },
+            {
+                "id": "657a4a52-614b-11ee-88b0-165b9450c7a6",
+                "text": "AI-Art"
+            },
+            {
+                "id": "bcb51ede-7ef9-11ee-b24e-cecbc98d93fe",
+                "text": "GPTs:illuminati:"
+            },
+            {
+                "id": "f6c8adca-b17b-11ee-b9c6-126c72981c55",
+                "text": "Mona Lisa: Multiverse of Madness:illuminati:"
+            }
+        ]
+    },
+    "ChatGPTPro": {
+        "description": "Subreddit dedicated to discussions on the advanced capabilities and professional applications of ChatGPT.",
+        "flairs": [
+            {
+                "id": "ebd0f0cc-9245-11ed-8a4d-f61355df9c39",
+                "text": "Discussion"
+            },
+            {
+                "id": "f506a182-9245-11ed-a4ec-02a252102d70",
+                "text": "Question"
+            },
+            {
+                "id": "4fbfe2f8-d2e4-11ed-bb2a-b6bc97649a5a",
+                "text": "Programming"
+            },
+            {
+                "id": "fd839680-9245-11ed-8c60-ae3a1aadb83f",
+                "text": "News"
+            },
+            {
+                "id": "0b59f198-9c03-11ed-ab78-46379ea9d0ba",
+                "text": "Writing"
+            },
+            {
+                "id": "1884785a-9246-11ed-a2e6-7267b3d34143",
+                "text": "UNVERIFIED AI Tool (free)"
+            },
+            {
+                "id": "1cb94ed2-92af-11ed-88d8-baeaf546bcb8",
+                "text": "UNVERIFIED AI Tool (paid)"
+            },
+            {
+                "id": "3bc5d6d0-9bfe-11ed-b967-9a97939e30cf",
+                "text": "Prompt"
+            },
+            {
+                "id": "13c28b92-9c03-11ed-8516-5e208e91ed5e",
+                "text": "Other"
+            }
+        ]
+    },
+    "ClaudeAI": {
+        "description": "This is a subreddit to discuss the capabilities, limitations, use cases, emerging personality and potential impacts on society of the conversational AI, Claude developed by Anthropic, in its Sonnet, Opus and Haiku forms. This subreddit is not controlled, operated or sanctioned by Anthropic. Please read the rules below before contributing. If you need Claude support, visit https://support.anthropic.com/ . If your account was banned email usersafety@anthropic.com ",
+        "flairs": [
+            {
+                "id": "0075d074-f3d8-11ef-bada-aaae4a62aff5",
+                "text": "Feature: Claude thinking"
+            },
+            {
+                "id": "b4ad342c-f371-11ef-a175-22ebeb94ce41",
+                "text": "Feature: Claude Code tool"
+            },
+            {
+                "id": "be3bf80a-adf0-11ef-a270-f27e2f71f38f",
+                "text": "Feature: Claude Model Context Protocol"
+            },
+            {
+                "id": "343a26f6-2536-11ef-82a7-76c8a749f336",
+                "text": "Feature: Claude API"
+            },
+            {
+                "id": "5258445a-9152-11ef-820b-fea3d7e7caa2",
+                "text": "Feature: Claude Computer Use"
+            },
+            {
+                "id": "8ba491c0-6054-11ef-8482-f6ae3c3aec1c",
+                "text": "Feature: Claude Artifacts"
+            },
+            {
+                "id": "a024f8ce-6054-11ef-893b-ee0444400585",
+                "text": "Feature: Claude Projects"
+            },
+            {
+                "id": "37a9e4a4-9587-11ef-a2da-3abfef7b5571",
+                "text": "Use: Claude for software development"
+            },
+            {
+                "id": "e4304450-2540-11ef-b8c8-8a15317f9ddd",
+                "text": "Use: Claude as a productivity tool"
+            },
+            {
+                "id": "8483db44-2535-11ef-b2ff-3a2d6491f210",
+                "text": "Use: Psychology, personality and therapy"
+            },
+            {
+                "id": "8ee409b6-2534-11ef-85d7-0a2b5632ac63",
+                "text": "Use: Creative writing/storytelling"
+            },
+            {
+                "id": "3f42eecc-af6d-11ef-b3a4-66d842b413f1",
+                "text": "Proof: Claude is doing great. Here are the SCREENSHOTS as proof"
+            },
+            {
+                "id": "211b00ec-af6d-11ef-bbce-5275973303eb",
+                "text": "Proof: Claude is failing. Here are the SCREENSHOTS as proof"
+            },
+            {
+                "id": "6d8ddab2-2800-11ee-a33e-06186bb2eddb",
+                "text": "News: Official Anthropic news and announcements"
+            },
+            {
+                "id": "c81ae426-f373-11ef-85b9-563dbb90789d",
+                "text": "News: This was built using Claude"
+            },
+            {
+                "id": "66856898-2800-11ee-836f-3a688bc9c870",
+                "text": "News: General relevant AI and Claude news"
+            },
+            {
+                "id": "a7f812b4-f372-11ef-9581-da91bba21a7e",
+                "text": "News: Comparison of Claude to other tech"
+            },
+            {
+                "id": "66cfe0da-2539-11ef-815a-8a28f6cc7364",
+                "text": "News: Promotion of app/service related to Claude"
+            },
+            {
+                "id": "e218c8d8-2539-11ef-8d17-3a2d6491f210",
+                "text": "General: Praise for Claude/Anthropic"
+            },
+            {
+                "id": "76ee0d34-2800-11ee-982f-0e74c0a9e424",
+                "text": "General: Comedy, memes and fun"
+            },
+            {
+                "id": "1eb2b7f6-a995-11ef-b308-f2eaf4ca63cb",
+                "text": "General: I have a feature suggestion/request"
+            },
+            {
+                "id": "cfcf4b84-2534-11ef-b667-f2016be11a77",
+                "text": "General: Philosophy, science and social issues"
+            },
+            {
+                "id": "44da0130-2c38-11ef-b28d-a2882d14e2d9",
+                "text": "General: I have a question about Claude or its features"
+            },
+            {
+                "id": "9335d3a0-2800-11ee-8fbc-b6232bd036d5",
+                "text": "General: Exploring Claude capabilities and mistakes"
+            },
+            {
+                "id": "7bb84088-9307-11ee-8ae9-36df4bfabaa2",
+                "text": "General: I need tech or product support"
+            },
+            {
+                "id": "8c7c3acc-2800-11ee-b5de-3e1cb03cf90c",
+                "text": "General: Prompt engineering tips and questions"
+            },
+            {
+                "id": "c271e762-6053-11ef-bbd8-aa31c267f1d6",
+                "text": "Complaint: Using Claude API"
+            },
+            {
+                "id": "1cd7dfd2-6053-11ef-9e0d-1efa00caaa78",
+                "text": "Complaint: Using web interface (FREE)"
+            },
+            {
+                "id": "2b9de610-6053-11ef-9c76-3ead3a04f0fa",
+                "text": "Complaint: Using web interface (PAID)"
+            },
+            {
+                "id": "3a88739e-2538-11ef-8e1b-8a15317f9ddd",
+                "text": "Complaint: General complaint about Claude/Anthropic"
+            },
+            {
+                "id": "bf8e1962-2800-11ee-b07c-2ad2773920d7",
+                "text": "Other: No other flair is relevant to my post"
+            }
+        ]
+    },
+    "dalle2": {
+        "description": "OpenAI's DALL\u00b7E 2, DALL\u00b7E 3, Bing DALL\u00b7E & OpenAI Sora",
+        "flairs": [
+            {
+                "id": "5d3fd936-ba78-11ec-b852-4e47d13bcd09",
+                "text": "News"
+            },
+            {
+                "id": "920f5966-ba78-11ec-a743-b2fce88b70b4",
+                "text": "Discussion"
+            },
+            {
+                "id": "73b8ba24-c01e-11ec-8069-4a70db05e87b",
+                "text": "Article"
+            },
+            {
+                "id": "f138716c-57f6-11ee-bb6b-eaf9d98a463b",
+                "text": "DALL\u00b7E 3"
+            },
+            {
+                "id": "623efd66-d328-11ee-9205-867d9b9721ea",
+                "text": "OpenAI Sora"
+            },
+            {
+                "id": "c908145a-da27-11ee-8024-0693e9f0a9ce",
+                "text": "DALL\u00b7E 2"
+            }
+        ]
+    },
+    "deepdream": {
+        "description": "Effective imminently, r/DeepDream is going dark for 48 hours in support of third party apps and NSFW API access. Check out /r/Save3rdPartyApps and /r/ModCoord for more information.",
+        "flairs": [
+            {
+                "id": "26432422-2fd0-11e5-9d10-0ef6ca535a4d",
+                "text": "Technical Help"
+            },
+            {
+                "id": "9e4e85f6-2fd0-11e5-a66d-0e5e20c89e15",
+                "text": "Image"
+            },
+            {
+                "id": "a23238d4-2fd0-11e5-9d10-0e5e20c89e15",
+                "text": "Video"
+            },
+            {
+                "id": "bed9869a-2fd0-11e5-8a28-0ec07e44b9c3",
+                "text": "New Guide / Tech"
+            },
+            {
+                "id": "2df030fe-c4ea-11e8-8edf-0e41f9e85934",
+                "text": "Style Transfer"
+            },
+            {
+                "id": "363bde98-c4ea-11e8-9949-0e1b96e77200",
+                "text": "DeepDream"
+            },
+            {
+                "id": "41c63a56-c4ea-11e8-b7de-0ec7d7262108",
+                "text": "GAN Art"
+            },
+            {
+                "id": "eb8bb3e0-c508-11e8-be9d-0e9321939ec0",
+                "text": "New Research"
+            },
+            {
+                "id": "76ecfaee-c5ee-11e8-ab21-0e96e2caf8ae",
+                "text": "News"
+            },
+            {
+                "id": "044cfa28-e2f0-11e9-b26e-0e9a76214f8c",
+                "text": "Project"
+            },
+            {
+                "id": "ba30d2f8-2afd-11ed-a8d2-1aa491ddb8b5",
+                "text": "StableDiffusion"
+            },
+            {
+                "id": "c0e652a8-2afd-11ed-9586-669a7dc5b7ff",
+                "text": "Diffusion"
+            },
+            {
+                "id": "1aa0a250-70c5-11ed-8e21-561aca0c883b",
+                "text": "Midjourney"
+            },
+            {
+                "id": "27b8b4fc-a241-11ed-8eb6-a2572acab963",
+                "text": "Audio"
+            },
+            {
+                "id": "dd0aae40-661e-11ee-9d5f-ae4c8697103a",
+                "text": "Dalle"
+            }
+        ]
+    },
+    "developersIndia": {
+        "description": "A wholesome community made by & for software & tech folks in India.\nHave a doubt? Ask it out.",
+        "flairs": [
+            {
+                "id": "6395a94a-3d08-11ea-9c57-0e52c51c20af",
+                "text": "General"
+            },
+            {
+                "id": "ec36207e-3d06-11ea-8944-0ee745817ba1",
+                "text": "Help"
+            },
+            {
+                "id": "7a7b5c68-3d03-11ea-9aff-0e196fd76e0d",
+                "text": "TIL"
+            },
+            {
+                "id": "93f435e2-3d54-11ea-84ac-0e0e467d2ba7",
+                "text": "I Made This :snoo_wink:"
+            },
+            {
+                "id": "577a7b42-3d4c-11ea-a296-0e510ba570f5",
+                "text": "Suggestions"
+            },
+            {
+                "id": "41546f20-3df2-11ea-a066-0e9c61cae215",
+                "text": "News"
+            },
+            {
+                "id": "3aa1dd9c-3dda-11ea-8dbd-0ef659bf3771",
+                "text": "Interesting:snoo_surprised:"
+            },
+            {
+                "id": "17a13424-f726-11ed-bf61-16962b61b567",
+                "text": "Open Source"
+            },
+            {
+                "id": "7c04bada-3d11-11ea-9773-0e3592f9016f",
+                "text": "Resources"
+            },
+            {
+                "id": "d27ca41e-f725-11ed-ad8a-6605b9c283c9",
+                "text": "Code Review"
+            },
+            {
+                "id": "03e7fc80-5628-11ea-9977-0e3f7ea7151f",
+                "text": "Career"
+            },
+            {
+                "id": "6ddf281c-7a01-11ec-b168-a2088201508a",
+                "text": "Resume Review"
+            },
+            {
+                "id": "735f5636-57a8-11ea-86bd-0ec4912d952b",
+                "text": "Freelance"
+            },
+            {
+                "id": "74e50d7e-5513-11ec-80d5-ae9a5a5b7004",
+                "text": "Company Review"
+            },
+            {
+                "id": "fac9c376-0413-11ed-b5e0-3a74136ded16",
+                "text": "Personal Win \u2728"
+            },
+            {
+                "id": "05d045b6-2f83-11ed-bf7b-76030757a2db",
+                "text": "College Placements"
+            },
+            {
+                "id": "9c68e0fe-2f89-11ed-9271-426b785237e5",
+                "text": "Events"
+            },
+            {
+                "id": "4ca72840-a6e4-11ee-af2f-8637d051ff01",
+                "text": "Code Collab"
+            },
+            {
+                "id": "f0345f88-26ab-11ed-8528-0e22242185f1",
+                "text": "Referral"
+            },
+            {
+                "id": "a85e78fa-3d11-11ea-b830-0e545c7cf83d",
+                "text": "Tips"
+            },
+            {
+                "id": "01768a50-f726-11ed-9026-8e84e0ce373b",
+                "text": "Interviews"
+            },
+            {
+                "id": "310bc1a4-f726-11ed-b7f7-12534870c771",
+                "text": "Work-Life Balance"
+            },
+            {
+                "id": "8b6b0750-f73e-11ed-9386-8afb440ad0a4",
+                "text": "Tech Gadgets & Reviews"
+            },
+            {
+                "id": "11205d7e-f73e-11ed-9c2d-8e48f46d1dc3",
+                "text": "Course Review"
+            }
+        ]
+    },
+    "LLMDevs": {
+        "description": "A space for Developers and Enthusiasts to discuss the application of LLM and NLP tools.",
+        "flairs": [
+            {
+                "id": "df9c6ac8-ae80-11ed-b5ee-dab4a79b804c",
+                "text": "Discussion"
+            },
+            {
+                "id": "e4529696-ae80-11ed-bed6-5609342691bf",
+                "text": "Help Wanted"
+            },
+            {
+                "id": "eb61c01a-ae80-11ed-a6b9-66b761ad6d7e",
+                "text": "News"
+            },
+            {
+                "id": "bca9c816-af12-11ed-92c1-1208e835eb28",
+                "text": "Resource"
+            },
+            {
+                "id": "d4a76fae-af12-11ed-9048-5e6dd1416789",
+                "text": "Tools"
+            }
+        ]
+    },
+    "LocalLLaMA": {
+        "description": "Subreddit to discuss about Llama, the large language model created by Meta AI.",
+        "flairs": [
+            {
+                "id": "2c9831e6-bf92-11ed-98e6-d2b8bcc02ae1",
+                "text": "Question | Help"
+            },
+            {
+                "id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+                "text": "Resources"
+            },
+            {
+                "id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+                "text": "Discussion"
+            },
+            {
+                "id": "23bddba8-ff56-11ed-9688-1a11994b71f7",
+                "text": "Generation"
+            },
+            {
+                "id": "f8cc0dfe-c1eb-11ed-8d79-72bc34fff7d9",
+                "text": "News"
+            },
+            {
+                "id": "ced98442-f5d3-11ed-b657-66d3b15490c6",
+                "text": "New Model"
+            },
+            {
+                "id": "449b05a6-bf8e-11ed-b4bd-66961e47bd50",
+                "text": "Tutorial | Guide"
+            },
+            {
+                "id": "7a7848d2-bf8e-11ed-8c2f-765d15199f78",
+                "text": "Other"
+            },
+            {
+                "id": "65c366b0-bf8e-11ed-86ac-725137141d5f",
+                "text": "Funny"
+            }
+        ]
+    },
+    "midjourney": {
+        "description": "Midjourney is an image generator that lets you explore new ideas that unlocks your creativity. ",
+        "flairs": [
+            {
+                "id": "95f9cb1e-23d3-11ed-9c16-2621fe777cdb",
+                "text": "Discussion - Midjourney AI"
+            },
+            {
+                "id": "b542bc7e-23d3-11ed-ad38-7a68a2e1b928",
+                "text": "AI Showcase - Midjourney"
+            },
+            {
+                "id": "c803aa9e-23d3-11ed-b1b0-e6f6469d2c61",
+                "text": "Question - Midjourney AI"
+            },
+            {
+                "id": "d45a2860-24a8-11ed-bba5-de9f36f02b61",
+                "text": "Jokes/Meme - Midjourney AI"
+            },
+            {
+                "id": "22553352-24a9-11ed-adea-827e4e034a08",
+                "text": "Paintover/Edited - Midjourney AI"
+            },
+            {
+                "id": "86da1e66-24c0-11ed-ad0d-9eb467cb93b5",
+                "text": "In The World - Midjourney AI"
+            },
+            {
+                "id": "791e2382-24c3-11ed-b956-aa7cc6526abb",
+                "text": "Resources/Tips - Midjourney AI"
+            },
+            {
+                "id": "3794be8c-619b-11ef-a53c-aed0566e088e",
+                "text": "AI Video + Midjourney"
+            },
+            {
+                "id": "54be0b48-9162-11ef-93d3-1e39f834e96f",
+                "text": "External Editor - Midjourney AI"
+            }
+        ]
+    },
+    "OpenAI": {
+        "description": "OpenAI is an AI research and deployment company. OpenAI's mission is to create safe and powerful AI that benefits all of humanity. We are an unofficially-run community. OpenAI makes ChatGPT, Sora, and DALL\u00b7E 3.\n[Help Center](https://help.openai.com/en/)\n***",
+        "flairs": [
+            {
+                "id": "ee15d6d8-a056-11e5-88de-0ee29c12279b",
+                "text": "Discussion"
+            },
+            {
+                "id": "cf21cb9e-2710-11ee-96be-3a516f63c833",
+                "text": "Question"
+            },
+            {
+                "id": "edcbc09e-a0eb-11e5-809c-0ebb6c7d004d",
+                "text": "Article"
+            },
+            {
+                "id": "fab37d42-286a-11ee-ad68-867c3a96e6c0",
+                "text": "Video"
+            },
+            {
+                "id": "3bab022e-6b42-11ee-9abb-7a3636b24528",
+                "text": "Image"
+            },
+            {
+                "id": "fecbdc26-286a-11ee-a043-4651a7d58b28",
+                "text": "News"
+            },
+            {
+                "id": "de06ecec-7f86-11ee-9b35-928784d97e14",
+                "text": "GPTs"
+            },
+            {
+                "id": "2698f706-998f-11e6-9489-0e195415f07a",
+                "text": "Project"
+            },
+            {
+                "id": "e1b7e05e-2710-11ee-9c0b-46c2afddbfa5",
+                "text": "Research"
+            },
+            {
+                "id": "a4130896-2710-11ee-aa31-9eeeb132eed6",
+                "text": "Tutorial"
+            },
+            {
+                "id": "fa8985aa-a0eb-11e5-a888-0ee29c12279b",
+                "text": "Miscellaneous"
+            }
+        ]
+    },
+    "opensource": {
+        "description": "A subreddit for everything open source related (for this context, we go off the definition of open source here http://en.wikipedia.org/wiki/Open_source)",
+        "flairs": [
+            {
+                "id": "f048747a-4094-11ed-afcf-16b5e38a4910",
+                "text": "Promotional"
+            },
+            {
+                "id": "0af061c0-4095-11ed-a9b1-ba4d0210df33",
+                "text": "Alternatives"
+            },
+            {
+                "id": "12cde2fa-4095-11ed-b740-028e409eb5ca",
+                "text": "Discussion"
+            },
+            {
+                "id": "5bfe179c-4095-11ed-9d3a-de194ee8cf08",
+                "text": "Community"
+            }
+        ]
+    },
+    "perplexity_ai": {
+        "description": "Welcome to the Perplexity Reddit community \u2013 we\u2019re so excited to have you here! Unlock the power of knowledge with information discovery and sharing.",
+        "flairs": [
+            {
+                "id": "99a55f32-e0c7-11ee-8b55-b66567c642c2",
+                "text": "feature request"
+            },
+            {
+                "id": "ad8b937c-e0c7-11ee-aead-d6e66eda8011",
+                "text": "news"
+            },
+            {
+                "id": "d16a9946-e0c7-11ee-b091-ba5e042117be",
+                "text": "bug"
+            },
+            {
+                "id": "dec18f28-e0c7-11ee-85ff-5a0a76f584a2",
+                "text": "prompt help"
+            },
+            {
+                "id": "f79c2db4-e0c7-11ee-a72c-e618a3810ffd",
+                "text": "til"
+            },
+            {
+                "id": "0bb61080-e0c8-11ee-8613-b253e4df6979",
+                "text": "image gen"
+            },
+            {
+                "id": "1ebae566-e0c8-11ee-8f60-469e99c2a2e1",
+                "text": "misc"
+            }
+        ]
+    },
+    "Rag": {
+        "description": "Welcome to r/Rag, the community for everything Retrieval-Augmented Generation (RAG)! RAG combines retrieval systems with generative models to create more accurate responses, enhancing applications like customer support and research. Join us to discuss RAG techniques, projects, and tools. Whether you're a researcher, developer, or AI enthusiast, you'll find tips, tutorials, and support to innovate with RAG!",
+        "flairs": [
+            {
+                "id": "3cd5f314-5f0e-11ef-8471-ce763c89f90c",
+                "text": "Research"
+            },
+            {
+                "id": "51b15f26-5f0e-11ef-89bb-f6e3c6e29464",
+                "text": "Tutorial"
+            },
+            {
+                "id": "615e8eda-5f0e-11ef-9fce-e24baa92549c",
+                "text": "Q&A"
+            },
+            {
+                "id": "7566a426-5f0e-11ef-8efe-0a1542af4571",
+                "text": "Showcase"
+            },
+            {
+                "id": "82d36bd0-5f0e-11ef-8e6a-e24baa92549c",
+                "text": "News & Updates"
+            },
+            {
+                "id": "91072bec-5f0e-11ef-9837-0a0c37e8c8e5",
+                "text": "Discussion"
+            },
+            {
+                "id": "a1d03608-5f0e-11ef-b320-eeb1e130e095",
+                "text": "Tools & Resources"
+            },
+            {
+                "id": "151ff7fa-60b4-11ef-9653-96cf7bb31879",
+                "text": "Machine Learning Related"
+            }
+        ]
+    },
+    "singularity": {
+        "description": "Everything pertaining to the technological singularity and related topics, e.g. AI, human enhancement, etc.",
+        "flairs": [
+            {
+                "id": "a5610cc4-dbb7-11e3-b6b2-12313b0d5a0a",
+                "text": "AI"
+            },
+            {
+                "id": "aa7c8dd2-dbb7-11e3-965f-12313b073d11",
+                "text": "Compute"
+            },
+            {
+                "id": "ae3f2d30-dbb7-11e3-83e0-12313b0ce03c",
+                "text": "Biotech/Longevity"
+            },
+            {
+                "id": "cb6167d4-dbb7-11e3-a5b0-12313d18e464",
+                "text": "Engineering"
+            },
+            {
+                "id": "91867abe-3073-11eb-aac2-0eb20cf4d6dd",
+                "text": "Robotics"
+            },
+            {
+                "id": "da73d636-b4e4-11eb-9747-0e5cbcb07259",
+                "text": "Neuroscience"
+            },
+            {
+                "id": "87e59cce-3073-11eb-9557-0ea5998baf4f",
+                "text": "Discussion"
+            },
+            {
+                "id": "d55ac474-dbb7-11e3-9511-12313b0ce03c",
+                "text": "Video"
+            },
+            {
+                "id": "b94e86e2-1418-11ed-96ad-06bc12337855",
+                "text": "Energy"
+            },
+            {
+                "id": "f376afe2-322c-11ee-88bd-b69576dd7d85",
+                "text": "Shitposting"
+            },
+            {
+                "id": "8f64f36c-ef6b-11ef-8aac-3e7951465e07",
+                "text": "LLM News"
+            },
+            {
+                "id": "3d684cd0-ef93-11ef-aaa9-0a33227f8af4",
+                "text": "Meme"
+            }
+        ]
+    },
+    "StableDiffusion": {
+        "description": "/r/StableDiffusion is an unofficial community embracing the open-source material of all related. Post art, ask questions, create discussions, contribute new tech, or browse the subreddit. It\u2019s up to you.",
+        "flairs": [
+            {
+                "id": "900f4dce-50f0-11ed-a81a-be16efc19e5f",
+                "text": "News"
+            },
+            {
+                "id": "bfd5c142-0a9f-11ed-9edc-6658f136867e",
+                "text": "Discussion"
+            },
+            {
+                "id": "185b7092-0ba3-11ed-b8da-0ecd4c8118a1",
+                "text": "Question - Help"
+            },
+            {
+                "id": "75b9616c-4fce-11ed-9bc0-7a4a21e832a7",
+                "text": "Tutorial - Guide"
+            },
+            {
+                "id": "c9164178-0a9f-11ed-a0b6-66277f18e533",
+                "text": "Resource - Update"
+            },
+            {
+                "id": "7aa2eefa-0aa0-11ed-bd2e-dabc979f9f70",
+                "text": "Comparison"
+            },
+            {
+                "id": "661d3c42-6c66-11ed-a612-361b2c012ad9",
+                "text": "IRL"
+            },
+            {
+                "id": "d7cf7af4-0a9f-11ed-a49a-5e624abacfdf",
+                "text": "Meme"
+            },
+            {
+                "id": "b7a3e5d8-51c8-11ed-8342-6660e867355f",
+                "text": "Animation - Video"
+            },
+            {
+                "id": "30c25eb2-2303-11ed-bff6-3ac5284890cf",
+                "text": "Workflow Included"
+            },
+            {
+                "id": "b1777fb8-4fce-11ed-a6eb-be25dd0ca350",
+                "text": "No Workflow"
+            }
+        ]
+    },
+    "SunoAI": {
+        "description": "Creating magic with Suno.\n\nNot affiliated with the official Suno team. Thanks Helena!",
+        "flairs": [
+            {
+                "id": "be2192e8-fd16-11ee-9dc1-169fca71b8ee",
+                "text": "Song"
+            },
+            {
+                "id": "5eded51a-fdbc-11ee-90c3-72d9d9f0190a",
+                "text": "Meme Song"
+            },
+            {
+                "id": "9c250eaa-29ed-11ef-bcae-027773d21aae",
+                "text": "Song - Audio Upload"
+            },
+            {
+                "id": "bd9d5cce-0a10-11ef-bdb0-c2e39e6c9811",
+                "text": "Song - Human Written Lyrics"
+            },
+            {
+                "id": "7ff41ee4-fdbd-11ee-95c7-e6d8c4a91c9b",
+                "text": "Compilation"
+            },
+            {
+                "id": "6295640e-fd16-11ee-8d3a-da681fbdab82",
+                "text": "Discussion"
+            },
+            {
+                "id": "f7101750-fd16-11ee-a4c3-aac0e0bafaa4",
+                "text": "Question:Question:"
+            },
+            {
+                "id": "d1683c72-fd15-11ee-95a0-f2173db59687",
+                "text": ":Suno-BlackDS: News"
+            },
+            {
+                "id": "c9303320-fd15-11ee-9a41-46b9c12c33a0",
+                "text": "Guide / Tip"
+            },
+            {
+                "id": "6c976e80-fd1a-11ee-9ff2-8612aed8f304",
+                "text": "Suggestion"
+            },
+            {
+                "id": "5ec9c942-fd1a-11ee-a909-628999437d37",
+                "text": "Bug:Error:"
+            },
+            {
+                "id": "6e937dc8-00c1-11ef-91f5-ce97f4458b7c",
+                "text": "Meme"
+            }
+        ]
+    },
+    "DeepSeek": {
+        "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism. We are an unofficial community.",
+        "flairs": [
+            {
+                "id": "605c614a-dce7-11ef-9d67-827ccac334c0",
+                "text": "Discussion "
+            },
+            {
+                "id": "a4bbec94-dce6-11ef-8839-c207bf770afb",
+                "text": "News"
+            },
+            {
+                "id": "fa98e39c-dce6-11ef-a89e-02431a04e33c",
+                "text": "Funny"
+            },
+            {
+                "id": "4e616fa8-dce7-11ef-854a-4ebe4ef42f21",
+                "text": "Other"
+            },
+            {
+                "id": "7b85808c-dce7-11ef-98da-d6a662c1afa9",
+                "text": "Resources"
+            },
+            {
+                "id": "99298750-dce7-11ef-813b-d6a662c1afa9",
+                "text": "Tutorial"
+            },
+            {
+                "id": "cc4e96fc-dce7-11ef-b717-7a8d7d041d14",
+                "text": "Question&Help"
+            }
+        ]
+    },
+    "Qwen_AI": {
+        "description": "Alibaba Qwen Junkie, Post anything appropriate and relevant to Qwen. We are an unofficial community. \ud83d\udc40 Be nice, be chill.\n\n\ud83e\udd16 Qwen Chat: https://chat.qwenlm.ai\n\n\ud83d\udcbb GitHub : https://qwenlm.github.io/blog/qwen2.5-vl/\n\n\ud83e\udd17 Hugging Face: https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5\n\n\ud83d\ude45X (Twitter): https://x.com/alibaba_qwen?s=21",
+        "flairs": [
+            {
+                "id": "b424f79c-dddc-11ef-ab07-ea79429c9123",
+                "text": "News \ud83d\udcf0"
+            },
+            {
+                "id": "656538d8-dddc-11ef-9615-aafbd4bf73f9",
+                "text": "Discussion \ud83d\udde3\ufe0f"
+            },
+            {
+                "id": "95e89f9a-dddc-11ef-9a56-5e9c2a1d9e38",
+                "text": "Funny \ud83d\ude02"
+            },
+            {
+                "id": "a9b191ee-dddc-11ef-83a7-66a7e84ed9f1",
+                "text": "Help \ud83d\ude4b\u200d\u2642\ufe0f"
+            },
+            {
+                "id": "576d7272-dddc-11ef-92d3-9eabf6ae79f2",
+                "text": "Meme \ud83d\udc38"
+            },
+            {
+                "id": "902fe360-dddc-11ef-bf7d-822fe9cf58a7",
+                "text": "DeepSeek \ud83d\udc33"
+            },
+            {
+                "id": "9b42a454-dddc-11ef-a97d-767c475f9b8f",
+                "text": "Other"
+            },
+            {
+                "id": "a116bf14-dddc-11ef-b713-8e8c6af4a1c2",
+                "text": "Resources \ud83d\udcda"
+            },
+            {
+                "id": "cbf18b2e-dddc-11ef-b13f-f6b4656cf25e",
+                "text": "ChatGPT \ud83e\udd16"
+            },
+            {
+                "id": "ac433482-e03c-11ef-9d06-c29122f429f1",
+                "text": "Video Gen \ud83c\udfa5"
+            },
+            {
+                "id": "cf51d5b4-e03c-11ef-a809-46719f0a8fe2",
+                "text": "Web Search \ud83d\udd0d"
+            },
+            {
+                "id": "f808a286-e22f-11ef-bf45-1245bfcdcfb2",
+                "text": "Image Gen \ud83c\udfde\ufe0f"
+            },
+            {
+                "id": "1e1cc8b2-e230-11ef-9ae2-ce6764a39307",
+                "text": "WEB search\ud83d\udcf1"
+            }
+        ]
+    },
+    "GeminiAI": {
+        "description": "Gemini AI is a neural network that has been trained on a massive dataset of text and code. This dataset includes books, articles, code repositories, and other forms of text.\nhttps://www.youtube.com/watch?v=_TVnM9dmUSk",
+        "flairs": [
+            {
+                "id": "78dd0ac8-653f-11ef-a464-568bd3f7f911",
+                "text": "Discussion"
+            },
+            {
+                "id": "85638b5a-653f-11ef-a860-2edf44b0e022",
+                "text": "Help/question"
+            },
+            {
+                "id": "97a1ecd0-653f-11ef-b819-22f868272175",
+                "text": "Ressource"
+            },
+            {
+                "id": "a15784ba-653f-11ef-9c1a-1ea8240527ff",
+                "text": "News"
+            },
+            {
+                "id": "afa82fba-653f-11ef-b094-e6c963813013",
+                "text": "Other"
+            },
+            {
+                "id": "be9fcd48-653f-11ef-8dd2-42907436e20e",
+                "text": "Self promo"
+            },
+            {
+                "id": "c6a3cf6a-6541-11ef-9eff-e6c963813013",
+                "text": "Interesting response (Highlight)"
+            },
+            {
+                "id": "ed18fb0c-6541-11ef-ac05-5a20c9bc2f0b",
+                "text": "Funny (Highlight/meme)"
+            },
+            {
+                "id": "5c44f788-6542-11ef-ac96-663de0aa0bb1",
+                "text": "Generated Images (with prompt)"
+            }
+        ]
+    },
+    "PromptEngineering": {
+        "description": "Prompt engineering is the application of engineering practices to the development of prompts - i.e., inputs into generative models like GPT or Midjourney.",
+        "flairs": [
+            {
+                "id": "5eec9fe6-c529-11ed-aab1-06519e5ec8e7",
+                "text": "General Discussion"
+            },
+            {
+                "id": "1e6899f0-c7ba-11ed-9dff-7e6d90b27180",
+                "text": "Quick Question"
+            },
+            {
+                "id": "36d24178-c529-11ed-98e7-52eaa5404291",
+                "text": "Requesting Assistance "
+            },
+            {
+                "id": "809c721a-c529-11ed-92a1-561dcb5d505c",
+                "text": "Ideas & Collaboration"
+            },
+            {
+                "id": "6bc5d314-c587-11ed-b794-7a35d08c26e3",
+                "text": "Prompt Text / Showcase"
+            },
+            {
+                "id": "4bf269c0-c529-11ed-88ba-bef4b1317137",
+                "text": "Tutorials and Guides"
+            },
+            {
+                "id": "26a5a8d0-c529-11ed-a141-6abd544c0775",
+                "text": "Tips and Tricks"
+            },
+            {
+                "id": "71c5b152-c529-11ed-aa64-7e02480267c3",
+                "text": "News and Articles"
+            },
+            {
+                "id": "67736cb2-c781-11ed-bd94-36941be7eb8b",
+                "text": "Research / Academic"
+            },
+            {
+                "id": "2f3fcd68-c529-11ed-a5c6-5e5a13843855",
+                "text": "Tools and Projects "
+            },
+            {
+                "id": "46218c4c-c529-11ed-9959-e22a114ce65a",
+                "text": "Prompt Collection"
+            },
+            {
+                "id": "52c5af46-c529-11ed-8f42-ea343f2f43ef",
+                "text": "Workplace / Hiring"
+            },
+            {
+                "id": "906a804c-c529-11ed-9de9-265c3f584339",
+                "text": "Other"
+            },
+            {
+                "id": "8b38ce3a-c529-11ed-bacf-8af1fda92e76",
+                "text": "Self-Promotion"
+            },
+            {
+                "id": "d606c8ca-c585-11ed-bc57-6677408d150a",
+                "text": "AI Produced Content"
+            }
+        ]
+    },
+    "ChatGPTPromptGenius": {
+        "description": "Welcome to r/ChatGPTPromptGenius, the subreddit where you can find and share the best AI prompts! Our community is dedicated to curating a collection of high-quality & standardized prompts that can be used to generate creative and engaging AI conversations. \n\nWhether you're looking for inspiration or just want to see what others are doing with AI, this is the place to be!\n\nThis subreddit has a companion browser extension called AI Prompt Genius.",
+        "flairs": [
+            {
+                "id": "855363a4-86fe-11ed-874b-deac0e52a1ad",
+                "text": "Academic Writing"
+            },
+            {
+                "id": "ed12db6e-86fe-11ed-81d2-fad9fb4931c4",
+                "text": "Business & Professional"
+            },
+            {
+                "id": "c8367872-8736-11ed-93d5-7eae52b8b3f4",
+                "text": "Bypass & Personas"
+            },
+            {
+                "id": "d19d49fa-86fe-11ed-9d62-3288d235639b",
+                "text": "Education & Learning"
+            },
+            {
+                "id": "37791a62-87b1-11ed-9104-4651b26a8371",
+                "text": "Expert/Consultant"
+            },
+            {
+                "id": "59a38406-86fd-11ed-8a60-a2948c1f840f",
+                "text": "Fun & Games"
+            },
+            {
+                "id": "63efaed0-86fd-11ed-9cbd-fea3c32d417b",
+                "text": "Fitness, Nutrition, & Health"
+            },
+            {
+                "id": "9af3e41e-86fd-11ed-b7b0-2e55a601a8cc",
+                "text": "Fiction Writing"
+            },
+            {
+                "id": "00c2e500-86ff-11ed-a32f-529d122c21dd",
+                "text": "Music"
+            },
+            {
+                "id": "730631f8-86ff-11ed-aaba-1281edfaf83d",
+                "text": "Nonfiction Writing"
+            },
+            {
+                "id": "8541a8ca-86ff-11ed-aa6e-86290c6a5cf7",
+                "text": "Other"
+            },
+            {
+                "id": "f34cbea2-87b0-11ed-905b-164e1a307854",
+                "text": "Philosophy & Logic"
+            },
+            {
+                "id": "0d551dca-86fe-11ed-a944-6299c1e989f6",
+                "text": "Poetry "
+            },
+            {
+                "id": "4370bc9e-86fd-11ed-b5a9-2239e8b83080",
+                "text": "Programming & Technology"
+            },
+            {
+                "id": "20bb9500-86ff-11ed-99a2-466f91396974",
+                "text": "Social Media & Blogging"
+            },
+            {
+                "id": "7e85df18-87b0-11ed-b64a-be817c3d81a1",
+                "text": "Speeches & Scripts"
+            },
+            {
+                "id": "52995602-86ff-11ed-8c4d-3236efe254fe",
+                "text": "Travel"
+            },
+            {
+                "id": "42c8734e-86fe-11ed-998e-d60f8c00ac97",
+                "text": "Therapy & Life-help"
+            },
+            {
+                "id": "1039a7b4-86fd-11ed-b515-5e8f630143da",
+                "text": "Meta (not a prompt)"
+            },
+            {
+                "id": "24130e86-b3cd-11ed-b637-264704c3c9e8",
+                "text": "Prompt Engineering (not a prompt)"
+            }
+        ]
+    },
+    "LangChain": {
+        "description": "LangChain is an open-source framework and developer toolkit that helps developers get LLM applications from prototype to production. \n\nIt is available for Python and Javascript at https://www.langchain.com/.",
+        "flairs": [
+            {
+                "id": "21ae8a9a-688f-11ee-84ef-0a91ff360d9d",
+                "text": "Question | Help"
+            },
+            {
+                "id": "29845f1a-688f-11ee-87e2-860c6da4ed2b",
+                "text": "Tutorial"
+            },
+            {
+                "id": "2da75f7a-688f-11ee-a0ae-7efd9193fd93",
+                "text": "Announcement"
+            },
+            {
+                "id": "47a9006a-68f6-11ee-acb3-56038b185eed",
+                "text": "Discussion"
+            },
+            {
+                "id": "f9461650-68f6-11ee-9801-d2bb3c1847ac",
+                "text": "Resources"
+            },
+            {
+                "id": "13408e28-68f7-11ee-b11c-aaf32cbac3e3",
+                "text": "News"
+            }
+        ]
+    },
+    "cursor": {
+        "description": "The AI Code Editor - cursor.com",
+        "flairs": [
+            {
+                "id": "11d3d326-9554-11ef-98fd-8651cd2bb007",
+                "text": "Question"
+            },
+            {
+                "id": "2b4537be-9554-11ef-a543-c6adba6b8eb9",
+                "text": "Bug"
+            },
+            {
+                "id": "411d32e4-9554-11ef-b173-ae4e74721c2c",
+                "text": "Showcase"
+            },
+            {
+                "id": "88718848-9554-11ef-8a75-eaed79eafc29",
+                "text": "Discussion"
+            },
+            {
+                "id": "95c0b99c-9554-11ef-838a-e6d64bdf0f28",
+                "text": "Resources & Tips"
+            }
+        ]
+    },
+    "computervision": {
+        "description": "Computer Vision is the scientific subfield of AI concerned with developing algorithms to extract meaningful information from raw images, videos, and sensor data. This community is home to the academics and engineers both advancing and applying this interdisciplinary field, with backgrounds in computer science, machine learning, robotics, mathematics, and more. \nWe welcome everyone from published researchers to beginners!",
+        "flairs": [
+            {
+                "id": "1bd4ce18-850c-11eb-8be8-0e5f6c846c6d",
+                "text": "Help: Theory "
+            },
+            {
+                "id": "2be07b9a-850c-11eb-9ef0-0e67fd476361",
+                "text": "Help: Project"
+            },
+            {
+                "id": "36fbf91e-850c-11eb-91c7-0e4eccfeba93",
+                "text": "Discussion "
+            },
+            {
+                "id": "43683492-850c-11eb-821e-0ee6d26806ff",
+                "text": "Research Publication"
+            },
+            {
+                "id": "548b6866-850c-11eb-98a7-0e2238bc8f5f",
+                "text": "Showcase"
+            },
+            {
+                "id": "61b77e9e-850c-11eb-9dcb-0e536d57c227",
+                "text": "Commercial "
+            }
+        ]
+    },
+    "LanguageTechnology": {
+        "description": "This sub will focus on theory, careers, and applications of NLP (Natural Language Processing), which includes anything from Regex & Text Analytics to Transformers & LLMs.",
+        "flairs": []
+    },
+    "generativeAI": {
+        "description": "Generative artificial intelligence refers to programs that make it possible for machines to use things like text, audio files and images to create content.\n\nPost anything related to Generative AI here.",
+        "flairs": [
+            {
+                "id": "6b433ef4-537a-11ef-b7a2-de5bc36c09f5",
+                "text": "Image Art"
+            },
+            {
+                "id": "6d864a94-b450-11ef-8fc3-7e3d327412e6",
+                "text": "Question"
+            },
+            {
+                "id": "c84b5082-b450-11ef-bd5a-f264222fe147",
+                "text": "How I Made This"
+            },
+            {
+                "id": "3c7a768c-ce77-11ef-a6f1-d2243e48136f",
+                "text": "Video Art"
+            },
+            {
+                "id": "4420805c-ce77-11ef-a9b8-16fc8bc8677f",
+                "text": "Music Art"
+            },
+            {
+                "id": "498fef50-ce77-11ef-a008-d215efab5098",
+                "text": "Writing Art"
+            },
+            {
+                "id": "56d26cd8-ce77-11ef-857d-4e916623335d",
+                "text": "Technical Art"
+            }
+        ]
+    },
+    "LargeLanguageModels": {
+        "description": "Everything to do with Large Language Models and AI",
+        "flairs": [
+            {
+                "id": "44c7b328-dff8-11ed-96f3-32f45d8730e1",
+                "text": "Question"
+            },
+            {
+                "id": "a347026e-dff8-11ed-aaf8-ee80f319957c",
+                "text": "Discussions"
+            },
+            {
+                "id": "ad5f73f8-dff8-11ed-aaac-e6099e6f5fd9",
+                "text": "News/Articles"
+            }
+        ]
+    },
+    "CopilotPro": {
+        "description": "Subreddit to discuss about Microsoft Copilot Pro. Not affiliated with Microsoft.",
+        "flairs": [
+            {
+                "id": "e9a26e56-de25-11ef-9f5b-6e4f97d6d6eb",
+                "text": "News"
+            },
+            {
+                "id": "115aab34-de26-11ef-8c84-c658cea2656e",
+                "text": "Funny"
+            },
+            {
+                "id": "33c1466a-de26-11ef-9e11-da40b7c2d8e8",
+                "text": "AI-Art"
+            },
+            {
+                "id": "7c60d666-de2a-11ef-a62f-767ac9fc2599",
+                "text": "Educational Purpose Only"
+            },
+            {
+                "id": "62de6a04-de26-11ef-a870-d6e32f7353ca",
+                "text": "Resources"
+            },
+            {
+                "id": "80c5e48e-de26-11ef-a31d-ea79429c9123",
+                "text": "Jailbreak"
+            },
+            {
+                "id": "bcc71a8e-de26-11ef-9407-da40b7c2d8e8",
+                "text": "Prompt engineering"
+            },
+            {
+                "id": "f15f3a2e-de26-11ef-8276-aafbd4bf73f9",
+                "text": "Other"
+            }
+        ]
+    },
+    "ControlProblem": {
+        "description": "Someday, AI will likely be smarter than us; maybe so much so that it could radically reshape our world. We don't know how to encode human values in a computer, so it might not care about the same things as us. If it does not care about our well-being, its acquisition of resources or self-preservation efforts could lead to human extinction.\n\nExperts agree that this is one of the most challenging and important problems of our age.\n\nOther terms: Superintelligence, AI Safety, Alignment Problem, AGI",
+        "flairs": [
+            {
+                "id": "ea03cef4-b842-11e8-b1d5-0e6de7951a24",
+                "text": "Discussion/question"
+            },
+            {
+                "id": "6ef9887a-73f2-11eb-8974-0e2c7a2ebd35",
+                "text": "External discussion link"
+            },
+            {
+                "id": "0f6f6804-f7d5-11eb-98c2-3ae94456c108",
+                "text": "Strategy/forecasting"
+            },
+            {
+                "id": "6a957c04-b841-11e8-b53b-0e7be15e79ee",
+                "text": "AI Capabilities News"
+            },
+            {
+                "id": "8c9e7b02-b841-11e8-be3e-0e7f4fcf0de2",
+                "text": "AI Alignment Research"
+            },
+            {
+                "id": "8f3afaf8-87f3-11ed-9d31-9a1e6b6c730b",
+                "text": "S-risks"
+            },
+            {
+                "id": "e4c734a8-b842-11e8-a5f3-0ef8589d8568",
+                "text": "General news"
+            },
+            {
+                "id": "8166c3c6-8f67-11e5-b189-0ee2b6e643bd",
+                "text": "Opinion"
+            },
+            {
+                "id": "8724ccfc-b842-11e8-a909-0eb4840b5646",
+                "text": "Article"
+            },
+            {
+                "id": "b56ecba8-b842-11e8-9450-0ef470c6ecf2",
+                "text": "Podcast"
+            },
+            {
+                "id": "5ef8325a-be82-11e8-baf2-0ea7dc005e5c",
+                "text": "Video"
+            },
+            {
+                "id": "7086ff54-072f-11eb-a826-0e1a85e6258d",
+                "text": "Fun/meme"
+            },
+            {
+                "id": "e5f0382e-bc71-11ed-b97b-9a02255452cb",
+                "text": "Approval request"
+            }
+        ]
+    },
+    "Futurology": {
+        "description": "A subreddit devoted to the field of Future(s) Studies and evidence-based speculation about the development of humanity, technology, and civilization.\n\n\n\n\n --------   You can also find us in the fediverse at - https://futurology.today",
+        "flairs": [
+            {
+                "id": "04988774-0e0b-11e3-9a9c-12313d281541",
+                "text": "meta"
+            },
+            {
+                "id": "69401078-c695-11e3-a435-12313d18e464",
+                "text": "AMA"
+            },
+            {
+                "id": "bedb9248-e558-11e6-b4c3-0ebc810e5616",
+                "text": "3DPrint"
+            },
+            {
+                "id": "cd06dca6-e558-11e6-94f7-0e304598dd4a",
+                "text": "AI"
+            },
+            {
+                "id": "331ef532-e559-11e6-9a6d-0ee5464b8f94",
+                "text": "Energy"
+            },
+            {
+                "id": "dc868cc6-e558-11e6-892d-0ee5464b8f94",
+                "text": "Biotech"
+            },
+            {
+                "id": "3f00c588-5407-11ed-a0b1-62dd6d66ff59",
+                "text": "Medicine"
+            },
+            {
+                "id": "f17b3230-e558-11e6-8dca-0e016ebf80aa",
+                "text": "Computing"
+            },
+            {
+                "id": "2a44fad8-e559-11e6-a42d-0e23c4f80b72",
+                "text": "Economics"
+            },
+            {
+                "id": "3f2be2b8-e559-11e6-a14f-0e651cc4a034",
+                "text": "Environment"
+            },
+            {
+                "id": "487fcfbe-e559-11e6-8750-0efe6d0e6e18",
+                "text": "Nanotech"
+            },
+            {
+                "id": "4f18400e-e559-11e6-8ef9-0e304598dd4a",
+                "text": "Robotics"
+            },
+            {
+                "id": "550de52c-e559-11e6-bef7-0eee6de7faf4",
+                "text": "Society"
+            },
+            {
+                "id": "591fe61a-e559-11e6-965e-0e23c4f80b72",
+                "text": "Space"
+            },
+            {
+                "id": "97aad31e-e567-11e6-8774-0ed84c9b14d0",
+                "text": "Transport"
+            },
+            {
+                "id": "575ca476-5407-11ed-8a23-36535e76f7d7",
+                "text": "Privacy/Security"
+            },
+            {
+                "id": "4d808df0-5407-11ed-85d4-3ab5e23bfaaa",
+                "text": "Politics"
+            },
+            {
+                "id": "3f65ffbe-19ae-11e7-a3cf-0e701479c064",
+                "text": "Discussion"
+            }
+        ]
+    },
+    "learnmachinelearning": {
+        "description": "Welcome to r/learnmachinelearning - a community of learners and educators passionate about machine learning!\n\n\nThis is your space to ask questions, share resources, and grow together in understanding ML concepts - from basic principles to advanced techniques. Whether you're writing your first neural network or diving into transformers, you'll find supportive peers here.\n\n\nFor ML research, /r/machinelearning\nFor resume review, /r/engineeringresumes\nFor ML engineers, /r/mlengineering\n",
+        "flairs": [
+            {
+                "id": "af5dfa18-accf-11e9-9669-0ec668ea0cbc",
+                "text": "Help"
+            },
+            {
+                "id": "47a377e4-acd0-11e9-a2da-0e1a75f5dd52",
+                "text": "Request"
+            },
+            {
+                "id": "e21fa83e-accf-11e9-ab9f-0ec7c4b24e8e",
+                "text": "Project"
+            },
+            {
+                "id": "bed45ad2-accf-11e9-adf9-0e84e198baba",
+                "text": "Discussion"
+            },
+            {
+                "id": "ec81b8ee-accf-11e9-b8f8-0ebea2df7d78",
+                "text": "Question"
+            },
+            {
+                "id": "2e9d36a8-bee2-11e9-97a2-0ec2e78d3388",
+                "text": "Meme"
+            },
+            {
+                "id": "8aeee882-d289-11ea-b4f0-0ed750cbd99b",
+                "text": "Tutorial"
+            }
+        ]
+    },
+    "NovelAi": {
+        "description": "Subreddit for the in-development AI storyteller NovelAI. \nIf you want to follow the progress, come join our Discord server!",
+        "flairs": [
+            {
+                "id": "25f89bfe-cca6-11eb-9195-0e9ef4507d5f",
+                "text": "Story"
+            },
+            {
+                "id": "d70f75a8-cca5-11eb-81f2-0ec865edd475",
+                "text": "Discussion"
+            },
+            {
+                "id": "e97250ca-4c49-11ec-91d8-962fe78c2b72",
+                "text": "Writing/Story Support"
+            },
+            {
+                "id": "16f53b38-4c4b-11ec-bf5a-2a8e034c3b03",
+                "text": "Technical/Account Support"
+            },
+            {
+                "id": "f97513d0-9ea6-11ed-bdfb-a2afdc13cb12",
+                "text": "Question: Text Generation"
+            },
+            {
+                "id": "b0b621e0-cca5-11eb-a324-0e30b9173c87",
+                "text": "Question: Image Generation"
+            },
+            {
+                "id": "e3f8c63e-cca5-11eb-8d22-0ed1d981f9f1",
+                "text": "Suggestion/Feedback"
+            },
+            {
+                "id": "1e0f05e0-d48a-11eb-83ef-0e460526bf03",
+                "text": "Content Sharing (LB, Scenario, Theme, etc)"
+            },
+            {
+                "id": "0e3acadc-a932-11ec-8e10-cef8a2c32544",
+                "text": "Offering Tips/Guide"
+            },
+            {
+                "id": "54c87b7c-bf44-11ef-aeda-72ef9507d3c5",
+                "text": "NAI Diffusion V4"
+            },
+            {
+                "id": "53e97042-1192-11ed-a285-06e33243dccc",
+                "text": "NAI Diffusion V1~V3"
+            },
+            {
+                "id": "f3cf5faa-cca5-11eb-a511-0e6d234e0ab3",
+                "text": "Art (Non-AI)"
+            },
+            {
+                "id": "6d62faf4-02af-11ec-808f-c6a7a95a501c",
+                "text": "Video"
+            },
+            {
+                "id": "bcccd884-cca5-11eb-9066-0e04ce4ba85d",
+                "text": "Meme"
+            },
+            {
+                "id": "ecfb411a-a118-11ec-8ea6-6e3a72f5fc4b",
+                "text": "Screenshot [Sigurd - GPT-J 6B]"
+            },
+            {
+                "id": "1f0420dc-a119-11ec-a7a7-c2f5791b1d35",
+                "text": "Screenshot [Euterpe - GPT-Fairseq-13B]"
+            },
+            {
+                "id": "34e752e8-a119-11ec-9eef-9670b6608e32",
+                "text": "Screenshot [Genji- GPT-J 6B JP]"
+            },
+            {
+                "id": "3f70af70-a119-11ec-bdad-f6d01cd2b3f2",
+                "text": "Screenshot [Snek - GPT-J 6B Python]"
+            },
+            {
+                "id": "b5b43fe4-a119-11ec-904f-6ae260dee774",
+                "text": "Screenshot [Krake GPT-NeoX 20B]"
+            },
+            {
+                "id": "c7294664-f999-11ed-9a8b-72fec1e2c829",
+                "text": "Screenshot [Clio - NAI-LM 3B]"
+            },
+            {
+                "id": "e066da44-2d72-11ee-904a-1a5dcce496e7",
+                "text": "Screenshot [Kayra - NAI-LM 13B]"
+            },
+            {
+                "id": "0d5f375a-79fb-11ef-9d37-a2ecd2e52dc9",
+                "text": "Screenshot [Erato - Llama 3 70B]"
+            }
+        ]
+    },
+    "testajajajajk": {
+        "description": "A subreddit to test reddit bots",
+        "flairs": []
+    }
+}
